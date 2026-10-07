@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+model.pt
+outputs/
+results/
+checkpoints/
